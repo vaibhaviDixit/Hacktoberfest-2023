@@ -1,6 +1,6 @@
 # Hacktoberfest Beginner's Guide
 
-Welcome to Hacktoberfest! This is a beginner-friendly guide to help you get started with your first Pull Request (PR) for Hacktoberfest. We're excited to have you join the open source community and contribute to this project.
+Welcome to Hacktoberfest! This is a beginner-friendly guide to help you get started with your first Pull Request (PR) for Hacktoberfest. We're excited to have you join the open-source community and contribute to this project.
 </br>
 <div align="center">
 <img  alt="bannar" align="center" src="https://i.postimg.cc/Ssyr2rn7/hf10-banner-1032x600.png">
@@ -88,6 +88,10 @@ Click the "Create Pull Request" button to submit your changes for review.
        git reset <- file name ->
        git reset
 
+### Committed changes (for many commits)
+    git reset <-commit hash->
+    git reset --hard <-commit hash->
+  
 ## Review and Merge
 
 I will review your Pull Requests and, if they are okay, merge them into the main project. Please be patient, as it may take some time for your PR to be reviewed.
@@ -103,5 +107,15 @@ I will review your Pull Requests and, if they are okay, merge them into the main
 
 
 If you have any questions or need help, don't hesitate to reach out. We're here to support you on your Hacktoberfest journey.
+
+
+
+## Contributors ✨
+
+Thanks go to these wonderful people 
+<!---  Used contrib.rocks to create contributors -->
+<a href="https://github.com/Rishavagarwal12345/Hacktoberfest-2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rishavagarwal12345/Hacktoberfest-2023" />
+</a>
 
 
